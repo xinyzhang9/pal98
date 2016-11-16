@@ -11,7 +11,9 @@
 ![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/4.PNG)
 ### 5. Select Management tab and set Chinese-Simplified for non-Unicode apps.  
 ![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/5.PNG)
-### 6. System may require restart or log-off. Click Accept.  
+### 6. You may also need to install Chinese language package from control panel.
+![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/8.PNG)
+### 7. System may require restart or log-off. Click Accept.  
 
-### 7. Everything settled. You can successfully launch game in window mode.(Change resolution is not recommended)  
+### 8. Everything settled. You can successfully launch game in window mode.(Change resolution is not recommended)  
 ![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/7.PNG)
