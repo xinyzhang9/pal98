@@ -2,7 +2,7 @@
 # How to run Pal_98 on windows 10
 
 ## 1.Extract the game folder (if it has been compressed)
-
+![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/1.png)
 ## 2. Try to run pal.exe as administrator and in compatibility mode.If you see messy code, then follow step 3.
 
 
