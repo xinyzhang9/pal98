@@ -14,4 +14,4 @@
 ## 6. System may require re-start or log-off. Accept.
 
 ## 7. Everything settled. You can successfully launch game in window mode.(Change resolution is not recommended)
-![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/6.PNG)
+![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/7.PNG)
