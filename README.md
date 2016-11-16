@@ -1,5 +1,5 @@
 # 仙剑奇侠传98柔情版 windows 10 运行教程 
-# How to run Pal_98 on windows 10
+How to run Pal_98 on windows 10
 
 ## 1.Extract the game folder (if it has been compressed)
 ![alt tag](https://raw.githubusercontent.com/xinyzhang9/pal98/master/1.PNG)
